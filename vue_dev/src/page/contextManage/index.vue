@@ -5,6 +5,9 @@
 </template>
 <script>
 export default {
-    
+    name: 'contextManage',
+    data() {
+        return {}
+    }
 }
 </script>

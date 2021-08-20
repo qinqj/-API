@@ -5,12 +5,9 @@
 </template>
 
 <script>
-import routerview from 'vue-router';
+
 export default {
   name: 'App',
-  components: {
-    routerView: routerview
-  }
 }
 </script>
 
