@@ -16,7 +16,7 @@ module.exports = {
     app_path:'/app',
 
     // 通讯录管理 secret
-    contact_secret :'',
+    contact_secret :'j_C5uQpJbSZ9uqKB6IieIBorQHQovcKUkQJI85ZzvSg',
 
     // 机器人 WebHook
     robot_webhook:''
